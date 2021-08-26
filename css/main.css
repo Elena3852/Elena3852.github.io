@@ -35,7 +35,7 @@ p {
 	width: 600px;
 } 
 .title {
-	font-size: 34px;
+	font-size: 30px;
 }
 .title span {
 	font-size: 54px;
@@ -58,6 +58,7 @@ p {
 }
 .desktop {
 	margin-top: 60px;
+	max-width: 100%;
 }
 .learn {
 	padding: 100px 0;
