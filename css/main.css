@@ -32,7 +32,7 @@ p {
 }
 .offer {
 	margin-top: 160px;
-	width: 540px;
+	max-width: 560px;
 } 
 .title {
 	font-size: 34px;
