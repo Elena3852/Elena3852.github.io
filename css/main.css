@@ -126,6 +126,9 @@ p {
 	.container {
 		width: 90%;
 	}
+	.desktop {
+		width: 90%;
+	}
 }
 @media screen and (max-width: 992px) {
 	.wrapper {
